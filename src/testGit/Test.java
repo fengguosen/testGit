@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		//CLOUD COMMIT
 		//CLOUD COMMIT3
+		//CLOUD COMMIT4
 	}
 
 }
